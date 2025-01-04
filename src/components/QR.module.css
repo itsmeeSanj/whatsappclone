@@ -1,0 +1,11 @@
+.QR_wrap {
+  background-color: #fcf5eb;
+  height: 100%;
+  width: 100%;
+}
+
+.QR_card {
+  border: 1px solid rgba(0, 0, 0, 0);
+  border-radius: 25px;
+  padding: 60px;
+}
